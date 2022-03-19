@@ -9,6 +9,8 @@ SP FPGA related mushroom projects
 
 ## Previous Student Working on project
 
+Academic year 2021/2022 Sem 2
+
 - [Gabriel Asaween]
 
 
@@ -24,6 +26,10 @@ for the transformation of Singapore
 
 
 <!--
+You can do nice readme files in this website
+https://readme.so/
+
+
 **SP-Mushrooms/SP-Mushrooms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
